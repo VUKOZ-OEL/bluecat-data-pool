@@ -17,6 +17,9 @@ Table of contents
 <div align="center" id='trees'/>  
 
 ## TREES
+
+</div>
+
 ![](docs/mapa.png)
 description of data here
 
