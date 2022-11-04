@@ -1,18 +1,26 @@
-# **bluecat-data-pool** ![](docs/logo.jpg)
+# **bluecat-data-pool** 
+</p align="right"> 
+
+![](docs/logo.jpg)
+
+</p>
 
 
 some introduction here ...  
 
 
+<p align="center">
 
 *******
-Tables of contents  
+Table of contents  
  1. [TREES](#trees)
  2. [SOILS](#soils)
  3. [REMOTE SESNISNG](#remotesensing)
  4. [...](#...)
 
 *******
+</p>
+
 
 
 <div id='trees'/>  
