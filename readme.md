@@ -1,8 +1,8 @@
-<p align="right"> 
+<div align="right"> 
 
 ![](docs/logo.jpg)
 
-</p>
+</div>
 
 # **BlueCat data pool**
 
@@ -10,7 +10,6 @@
 some introduction here ...  
 
 
-<div align="center">
 
 Table of contents  
  1. [TREES](#trees)
@@ -19,11 +18,11 @@ Table of contents
  4. [...](#...)
 
 *******
-</div>
 
 
 
-<div id='trees'/>  
+
+<div align="center" id='trees'/>  
 
 ## TREES
 ![](docs/mapa.jpg)
