@@ -1,5 +1,5 @@
 <p align="right"> 
-	
+
 ![](docs/logo.jpg)
 
 </p>
@@ -10,7 +10,7 @@
 some introduction here ...  
 
 
-<p align="center">
+<div align="center">
 
 Table of contents  
  1. [TREES](#trees)
@@ -19,7 +19,7 @@ Table of contents
  4. [...](#...)
 
 *******
-</p>
+</div>
 
 
 
