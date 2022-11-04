@@ -1,10 +1,11 @@
-# **bluecat-data-pool** 
 </p align="right"> 
 
 ![](docs/logo.jpg)
 
 </p>
 
+# **BlueCat data pool**
+*******
 
 some introduction here ...  
 
