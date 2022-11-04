@@ -1,10 +1,12 @@
+# **BlueCat data pool**
+
 <div align="right"> 
 
 ![](docs/logo.jpg)
 
 </div>
 
-# **BlueCat data pool**
+
 
 
 some introduction here ...  
@@ -25,7 +27,7 @@ Table of contents
 <div align="center" id='trees'/>  
 
 ## TREES
-![](docs/mapa.jpg)
+![](docs/mapa.png)
 description of data here
 
 > layer 1  
@@ -45,7 +47,7 @@ description of data here
 <div id='remotesensing'/>  
 
 ## REMOTE SENSING
-![](docs/pointcloud.jpg)
+![](docs/pointcloud.png)
 description of data here
 
 > layer 1  
@@ -53,9 +55,5 @@ description of data here
 > ...   
 
 
-```json
-   // #3336FF
-   test color
-```
 
 
