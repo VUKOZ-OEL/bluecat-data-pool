@@ -3,14 +3,12 @@ some introduction here ...
 
 
 
-## Data content:  
- 1. [TREES](#trees)
- 2. [SOILS](#soils)
- 3. [REMOTE SESNISNG](#remotesensing)
- 4. [...](#...)
+
+
 
 *******
-
+## Content:  
+***
 
 
 
@@ -36,10 +34,8 @@ description of data here
 > layer 2  
 > ...   
 
-
 </p></details>
 
-<div align="center" id='remotesensing'/>  
 
 
 <details><summary>REMOTE SENSING</summary><p>
@@ -52,6 +48,8 @@ description of data here
 > ...   
 
 </div>
+
+
 
 
 <details><summary>...</summary><p>
