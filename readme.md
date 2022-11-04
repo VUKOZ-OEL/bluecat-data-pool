@@ -14,12 +14,7 @@ some introduction here ...
 
 
 
-<div align="center" id='trees'/>  
-
-## TREES
-</div>
-
-<div align="left">
+<details><summary>TREES</summary><p>
 
 ![](https://github.com/VUKOZ-OEL/bluecat-data-pool/tree/main/docs/mapa.png)
 description of data here
@@ -27,14 +22,11 @@ description of data here
 > layer 1  
 > layer 2  
 > ...  
-</div>
 
-<div align="center" id='soils'/>  
+</p></details>
 
-## SOILS
-</div>
 
-<div align="left">
+<details><summary>SOILS</summary><p>
 
 ![](asi/nejaky/obrazek/nebo/co.png)
 
@@ -43,16 +35,16 @@ description of data here
 > layer 1  
 > layer 2  
 > ...   
-</div>
+
+
+</p></details>
 
 <div align="center" id='remotesensing'/>  
 
 ## REMOTE SENSING
-</div>
+<details><summary>...</summary><p>
 
-<div align="left">
-
-![](https://github.com/VUKOZ-OEL/bluecat-data-pool/tree/main/docs/chm.png)
+![](https://raw.githubusercontent.com/VUKOZ-OEL/bluecat-data-pool/main/docs/chm.png)
 description of data here
 
 > layer 1  
@@ -60,10 +52,10 @@ description of data here
 > ...   
 </div>
 
-##
-<details><summary>TEST collapse</summary><p>
+## ...
+<details><summary>...</summary><p>
 
-  ![](https://github.com/VUKOZ-OEL/bluecat-data-pool/tree/main/docs/chm.png)
+  ![](https://github.com/VUKOZ-OEL/bluecat-data-pool/docs/chm.png)
   description of data here
   > layer 1  
   > layer 2  
