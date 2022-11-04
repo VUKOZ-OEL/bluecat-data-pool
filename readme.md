@@ -1,7 +1,8 @@
 # **bluecat-data-pool**
-![logo](docs/logo.jpg)
+![](docs/logo.jpg =30*30)
 
-some introduction here
+some introduction here ...  
+   
 
 
 *******
