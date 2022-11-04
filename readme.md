@@ -18,7 +18,7 @@ some introduction here ...
 
 ## TREES
 
-</div>
+<div align="left">
 
 ![](docs/mapa.png)
 description of data here
@@ -31,7 +31,9 @@ description of data here
 
 ## SOILS
 
-</div>
+<div align="left">
+
+![](asi/nejaky/obrazek/nebo/co.png)
 
 description of data here
 
@@ -43,9 +45,9 @@ description of data here
 
 ## REMOTE SENSING
 
-</div>
+<div align="left">
 
-![](docs/pointcloud.png)
+![](docs/chm.png)
 description of data here
 
 > layer 1  
