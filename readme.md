@@ -27,9 +27,11 @@ description of data here
 > layer 2  
 > ...  
 
-<div id='soils'/>  
+<div align="center" id='soils'/>  
 
 ## SOILS
+
+</div>
 
 description of data here
 
@@ -37,9 +39,12 @@ description of data here
 > layer 2  
 > ...   
 
-<div id='remotesensing'/>  
+<div align="center" id='remotesensing'/>  
 
 ## REMOTE SENSING
+
+</div>
+
 ![](docs/pointcloud.png)
 description of data here
 
