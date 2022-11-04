@@ -60,19 +60,17 @@ description of data here
 > ...   
 </div>
 
-<div align="center" id='...'/>  
+<details><summary>TEST collapse</summary><p>
 
-## ...
-</div>
+  ![](docs/chm.png)
+  description of data here
+  > layer 1  
+  > layer 2  
+  > ...
 
-<div align="left">
+</p></details>
 
-description of data here
 
-> layer 1  
-> layer 2  
-> ...   
-</div>
 
 
 
