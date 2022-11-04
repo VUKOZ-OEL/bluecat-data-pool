@@ -17,6 +17,7 @@ some introduction here ...
 <div align="center" id='trees'/>  
 
 ## TREES
+</div>
 
 <div align="left">
 
@@ -26,10 +27,12 @@ description of data here
 > layer 1  
 > layer 2  
 > ...  
+</div>
 
 <div align="center" id='soils'/>  
 
 ## SOILS
+</div>
 
 <div align="left">
 
@@ -40,10 +43,12 @@ description of data here
 > layer 1  
 > layer 2  
 > ...   
+</div>
 
 <div align="center" id='remotesensing'/>  
 
 ## REMOTE SENSING
+</div>
 
 <div align="left">
 
@@ -53,7 +58,21 @@ description of data here
 > layer 1  
 > layer 2  
 > ...   
+</div>
 
+<div align="center" id='...'/>  
+
+## ...
+</div>
+
+<div align="left">
+
+description of data here
+
+> layer 1  
+> layer 2  
+> ...   
+</div>
 
 
 
