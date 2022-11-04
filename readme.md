@@ -1,15 +1,7 @@
 # **bluecat-data-pool**
 ![logo](docs/logo.jpg)
 
-## There is 
-
-### some
-
-#### description
-
-of data
-
-> in blocks maybe
+some introduction here
 
 
 *******
@@ -28,9 +20,9 @@ Tables of contents
 
 description of data here
 
-> layer 1
-> layer 2
-> ... 
+> layer 1  
+> layer 2  
+> ...  
 
 <div id='soils'/>  
 
@@ -38,18 +30,19 @@ description of data here
 
 description of data here
 
-> layer 1
-> layer 2
-> ... 
+> layer 1  
+> layer 2  
+> ...   
 
 <div id='remotesensing'/>  
+
 ## REMOTE SENSING
 
 description of data here
 
-> layer 1
-> layer 2
-> ... 
+> layer 1  
+> layer 2  
+> ...   
 
 
 
