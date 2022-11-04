@@ -21,7 +21,7 @@ some introduction here ...
 
 <div align="left">
 
-![](docs/mapa.png)
+![](https://github.com/VUKOZ-OEL/bluecat-data-pool/tree/main/docs/mapa.png)
 description of data here
 
 > layer 1  
@@ -52,7 +52,7 @@ description of data here
 
 <div align="left">
 
-![](docs/chm.png)
+![](https://github.com/VUKOZ-OEL/bluecat-data-pool/tree/main/docs/chm.png)
 description of data here
 
 > layer 1  
@@ -62,7 +62,7 @@ description of data here
 
 <details><summary>TEST collapse</summary><p>
 
-  ![](docs/chm.png)
+  ![](https://github.com/VUKOZ-OEL/bluecat-data-pool/tree/main/docs/chm.png)
   description of data here
   > layer 1  
   > layer 2  
