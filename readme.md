@@ -1,7 +1,4 @@
-**bluecat-data-pool**
-
-![fig1](background.jpg)
-
+# **bluecat-data-pool**
 
 ## There is 
 
