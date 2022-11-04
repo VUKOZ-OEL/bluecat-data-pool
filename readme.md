@@ -18,7 +18,7 @@ Tables of contents
 <div id='trees'/>  
 
 ## TREES
-
+![](docs/mapa.jpg)
 description of data here
 
 > layer 1  
@@ -38,7 +38,7 @@ description of data here
 <div id='remotesensing'/>  
 
 ## REMOTE SENSING
-
+![](docs/pointcloud.jpg)
 description of data here
 
 > layer 1  
