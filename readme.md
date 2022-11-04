@@ -1,18 +1,17 @@
-</p align="right"> 
-
+<p align="right"> 
+	
 ![](docs/logo.jpg)
 
 </p>
 
 # **BlueCat data pool**
-*******
+
 
 some introduction here ...  
 
 
 <p align="center">
 
-*******
 Table of contents  
  1. [TREES](#trees)
  2. [SOILS](#soils)
