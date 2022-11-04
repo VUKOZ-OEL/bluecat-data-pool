@@ -1,4 +1,4 @@
-# **BlueCat data pool**                               ![](docs/logo.jpg)
+# **BlueCat data pool**                   
 
 
 some introduction here ...  
