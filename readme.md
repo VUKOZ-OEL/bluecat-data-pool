@@ -15,6 +15,8 @@ description of data here
 > ...  
 
 </p></details>
+  
+******
 
 
 ![](https://raw.githubusercontent.com/VUKOZ-OEL/bluecat-data-pool/main/docs/mapa.png)
@@ -28,6 +30,8 @@ description of data here
 
 </p></details>
 
+******
+
 
 ![](https://raw.githubusercontent.com/VUKOZ-OEL/bluecat-data-pool/main/docs/chm.png)
 <details><summary>REMOTE SENSING</summary><p>
@@ -38,9 +42,9 @@ description of data here
 > layer 2  
 > ...   
 
-</div>
+</p></details>
 
-
+******
 
 
 <details><summary>...</summary><p>
@@ -53,7 +57,7 @@ description of data here
 
 </p></details>
 
-
+******
 
 
 
