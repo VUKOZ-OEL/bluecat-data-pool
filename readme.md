@@ -1,12 +1,4 @@
-# **BlueCat data pool**
-
-<div align="right"> 
-
-![](docs/logo.jpg)
-
-</div>
-
-
+# **BlueCat data pool**                               ![](docs/logo.jpg)
 
 
 some introduction here ...  
