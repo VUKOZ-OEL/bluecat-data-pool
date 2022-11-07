@@ -1,9 +1,9 @@
 
-some introduction here ...  
+Plot introduction and description ...  
 
 
 
-#### Content:  
+#### Data:  
 
 ![](https://raw.githubusercontent.com/VUKOZ-OEL/bluecat-data-pool/main/docs/mapa.png)
 <details><summary>TREES</summary><p>
