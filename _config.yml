@@ -2,3 +2,31 @@ theme: jekyll-theme-cayman
 title: Blue Cat data pool
 description: Open dataset from Žofín ForestGEO plot.
 show_downloads: true
+
+
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        sample dataset
+relative_permalinks: true
+
+# Setup
+title:            Žofín
+tagline:          'A Jekyll theme'
+description:      'A sample daset of data collected by Blue Cat team on ...
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'mmm'
+  url:            www
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
