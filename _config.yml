@@ -1,8 +1,3 @@
-theme: jekyll-theme-cayman
-title: Blue Cat data pool
-description: Open dataset from Žofín ForestGEO plot.
-show_downloads: true
-
 
 # Dependencies
 markdown:         redcarpet
@@ -16,7 +11,7 @@ relative_permalinks: true
 title:            Žofín
 tagline:          'A Jekyll theme'
 description:      'A sample daset of data collected by Blue Cat team on ...
-url:              http://hyde.getpoole.com
+url:              https://vukoz-oel.github.io/bluecat-data-pool/
 baseurl:          /
 
 author:
