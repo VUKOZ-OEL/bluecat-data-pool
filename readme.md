@@ -5,13 +5,14 @@ All data in repository or data linked in from remote storage are limited, either
 
 ******  
 
-#### Data sections:  
-- [Biomonitoring]()
-- [Maps]()
-- [Photo]()
-- [Remote sensing](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/REMOTE_SENSING/readme.md)  
-- [Soils](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/REMOTE_SENSING/readme.md)  
-- [Trees](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/REMOTE_SENSING/readme.md)  
+#### Avialable data:  
+
+| Section | Contain |
+| [Maps]() | sample maps in .jpg |
+| [Photo]() | sample photos from plot |
+| [Remote sensing](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/REMOTE_SENSING/readme.md)  | ALS, TLS, MLS, ULS + Aerieal photgraphy |
+| [Soils](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/REMOTE_SENSING/readme.md)  | soil data|  
+| [Trees](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/REMOTE_SENSING/readme.md)  | dendro data |  
 
 
 
