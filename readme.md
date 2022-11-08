@@ -1,5 +1,5 @@
 
-Plot introduction and description ...  
+Repository holds sample dataset from [Žofín ForestGEO plot](https://forestgeo.si.edu/sites/europe/zofin) - Central Europe old-growth forest. Data are collected and managed by the [Blue cat team](https://naturalforests.cz/)
 
 ******  
 
