@@ -19,12 +19,12 @@ Due its size the RS data are stored externally, here we provide links:
 > [2022]()  
 
 ### Mobile laser scanning
-> [2022]() - captured and processed by [Virtsilv](https://virtsilv.com/)
+> [2022]() - leaf-on data, acquired 1.6.2022 by GeoSLAM, scanned and processed by [Virtsilv company.](https://virtsilv.com/)
 
 ### Unmanned laser scanning  
 
-> [2018]()
-> [2018]() 
+> [2018]()  
+> [2018]()   
 
 ### Aerieal laser scanning  
 
