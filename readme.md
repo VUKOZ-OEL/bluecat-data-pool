@@ -5,10 +5,10 @@ All data in repository or data linked in from remote storage are limited, either
 
 ******  
 
-### Avialable data:  
+### **Avialable data:**   
 
-| Section | Content |
-|---------|---------|
+
+| :--- | :---: |
 | [Biomonitoring]() | mosses |  
 | [Maps]() | sample maps in .jpg |
 | [Photo]() | sample photos from plot |
