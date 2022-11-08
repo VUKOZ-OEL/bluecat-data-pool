@@ -9,12 +9,13 @@ All data in repository or data linked in from remote storage are limited, either
 
 
 | :--- | :---: |
-| [Biomonitoring]() | mosses |  
+| [Biomonitoring]() | mosses, mushrooms, insects |  
 | [Maps]() | sample maps in .jpg |
 | [Photo]() | sample photos from plot |
 | [Remote sensing](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/REMOTE_SENSING/readme.md)  | ALS, TLS, MLS, ULS + Aerieal photgraphy |
-| [Soils](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/REMOTE_SENSING/readme.md)  | soil data|  
-| [Trees](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/REMOTE_SENSING/readme.md)  | dendro data |  
+| [Soils]()  | geology, geophysics, pollen profile, soil map, soil profile |  
+| [Sensors]()  | meteo data, dendroband data, TOMST, EMS, litter trap |  
+| [Trees]()  | tree census data, species list, summary data, dendrochronology, regeneration, deadwoods |  
 
 
 
