@@ -7,8 +7,6 @@ All data in repository or data linked in from remote storage are limited, either
 
 ### **Avialable data:**   
 
-
-| ---------- | :------------------------------------------------: |
 | [Biomonitoring]() | mosses, mushrooms, insects |  
 | [Maps]() | sample maps in .jpg |
 | [Photo]() | sample photos from plot |
@@ -17,7 +15,10 @@ All data in repository or data linked in from remote storage are limited, either
 | [Sensors]()  | meteo data, dendroband data, TOMST, EMS, litter trap |  
 | [Trees]()  | tree census data, species list, summary data, dendrochronology, regeneration, deadwoods |   
 
-![](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/chm.png)
+
+
+![](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/chm.png)  
+
 
 
 
