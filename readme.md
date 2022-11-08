@@ -3,7 +3,7 @@ Repository for a sample dataset from the [Žofín ForestGEO plot](https://forest
 
 All data in repository or data linked in from remote storage are limited, either spatially or temporarilly and are published under [THE]() licence. We are happy to collaborate and share the full extent of data for specific purposes [upon request.](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/contacts/readme.md)  
 
-******  
+********  
 
 ### **Avialable data:**   
   
@@ -15,16 +15,5 @@ All data in repository or data linked in from remote storage are limited, either
 | [Sensors]()  | meteo data, dendroband data, TOMST, EMS, litter trap |  
 | [Trees]()  | tree census data, species list, summary data, dendrochronology, regeneration, deadwoods |   
 
-
-
-
-
-
-
-
-
-  
-
-
-
+********  
 
