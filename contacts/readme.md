@@ -1,7 +1,7 @@
 ## Principal investigators  
 
-kam kam@vukoz.cz
-zabi zabi@vukoz.com
+kam kam@vukoz.cz  
+zabi zabi@vukoz.com  
 
 
 ### Person responsible for data sections  
