@@ -12,11 +12,11 @@ colors:
   gradient_left: "#a3a367"
   gradient_right: "#f57c00"
   android_theme: "#000" # this default to gradient_color
-  link: "#1e6bb8" # this default to gradient_color
+  link: "#000000" # this default to gradient_color #1e6bb8
   section_title: "#155799" # this default to gradient_color
 buttons:
       zip_url: https://naturalforests.cz/
-      zip_title: View team
+      zip_title: More about team
       zip_hide: false
       tar_url: https://forestgeo.si.edu/sites/europe/zofin
       tar_title: View plot details
