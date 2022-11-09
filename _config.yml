@@ -8,12 +8,12 @@ darkmode: false
 hide_first_title: true # Useful if README.md is used on both github and pages
 
 colors:
-    gradient_left: "#FDE725FF"
-    gradient_right: "#440145FF"
-    header: "#fff"
-    android_theme: "#000" # this default to gradient_color
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#155799" # this default to gradient_color
+  header: "#000"
+  gradient_left: "#a3a367"
+  gradient_right: "#f57c00"
+  android_theme: "#000" # this default to gradient_color
+  link: "#1e6bb8" # this default to gradient_color
+  section_title: "#155799" # this default to gradient_color
 buttons:
       zip_url: https://naturalforests.cz/
       zip_title: View team
@@ -22,3 +22,6 @@ buttons:
       tar_title: View plot details
       tar_hide: false
       github_hide: false # hides "View on Github"
+
+
+
