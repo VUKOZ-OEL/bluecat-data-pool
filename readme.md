@@ -17,5 +17,5 @@ All data in repository or data linked in from remote storage are limited, either
   
 ********  
 
-    
+Data published in repository comes from one 30 x 30 m subplot if possible. However sampling points of some data does not lie in this subplot (i.e. litter trap, directional photography, etc.). In that case, data from the nearest sampling point(s) are avialable.
 
