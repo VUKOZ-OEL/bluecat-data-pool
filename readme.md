@@ -22,6 +22,6 @@ Data published in repository comes from one 30 x 30 m subplot if possible. If no
 
 [![DOI](https://zenodo.org/badge/561805081.svg)](https://zenodo.org/badge/latestdoi/561805081)
 
-![fig1](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/chm.png)  
+![fig1](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/logo.jpg)  
 
-![fig2](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/pointcloud.png)  
+![fig2](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/log.png)  
