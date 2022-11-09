@@ -21,4 +21,3 @@ Data published in repository comes from one 30 x 30 m subplot if possible. If no
 
 ![DOI](https://zenodo.org/badge/561805081.svg)]
 
-
