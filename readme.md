@@ -5,7 +5,7 @@ All data in repository or data linked in from remote storage are limited, either
 
 ********    
 
-| ### Avialable data:  | ### Description |
+| Avialable data:  | Description |
 | ------------------- | ------------------- |       
 | [Biomonitoring]() | mosses, mushrooms, insects |     
 | [Maps]() | sample maps in .jpg |            
