@@ -19,5 +19,6 @@ All data in repository or data linked in from remote storage are limited, either
 
 Data published in repository comes from one 30 x 30 m subplot if possible. If none of the sampling points fall within the area of subplot (i.e. litter trap, directional photography, etc.). Data from the nearest sampling point(s) are avialable.
 
-![DOI](https://zenodo.org/badge/561805081.svg)]
+[![DOI](https://zenodo.org/badge/561805081.svg)](https://zenodo.org/badge/latestdoi/561805081)
 
+    
