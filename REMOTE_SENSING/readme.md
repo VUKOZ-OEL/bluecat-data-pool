@@ -26,4 +26,5 @@ Due its size the RS data are stored externally, here we provide links:
 
 ## RS data  
 | Carrier  | Year | Description |
+| ------------------- | ------------------- | ------------------- |  
 | UAV |[2022]() | Ortophot acquired by DJI phantom 4 RTK on... |
