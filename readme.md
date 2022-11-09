@@ -1,4 +1,4 @@
-Žofín ForestGEO data
+# Žofín ForestGEO data
 
 Repository for a sample dataset from the [Žofín ForestGEO plot](https://forestgeo.si.edu/sites/europe/zofin) - Central Europe old-growth forest. Data beeing collected and managed by the [Blue cat team.](https://naturalforests.cz/)  
 
