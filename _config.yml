@@ -8,8 +8,8 @@ darkmode: false
 hide_first_title: false # Useful if README.md is used on both github and pages
 
 colors:
-    gradient_left: "#155799"
-    gradient_right: "#159957"
+    gradient_left: "#FDE725FF"
+    gradient_right: "#440145FF"
     header: "#fff"
     android_theme: "#000" # this default to gradient_color
     link: "#1e6bb8" # this default to gradient_color
