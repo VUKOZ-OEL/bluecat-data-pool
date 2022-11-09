@@ -3,12 +3,9 @@ Repository for a sample dataset from the [Žofín ForestGEO plot](https://forest
 
 All data in repository or data linked in from remote storage are limited, either spatially or temporarilly and are published under [THE]() licence. We are happy to collaborate and share the full extent of data for specific purposes [upon request.](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/contacts/readme.md)  
 
-********  
+********    
 
-### **Avialable data:**   
-   
-
-| Data section  | Description |
+| **Avialable data:**  | Description |
 | ------------------- | ------------------- |       
 | [Biomonitoring]() | mosses, mushrooms, insects |     
 | [Maps]() | sample maps in .jpg |            
@@ -22,8 +19,3 @@ All data in repository or data linked in from remote storage are limited, either
 
     
 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
