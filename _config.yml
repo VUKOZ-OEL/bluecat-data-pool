@@ -5,6 +5,8 @@ description: Open sample of dataset from the oldest natural reservation in Centr
 show_downloads: true
 darkmode: false
 
+hide_first_title: false # Useful if README.md is used on both github and pages
+
 colors:
     gradient_left: "#155799"
     gradient_right: "#159957"
