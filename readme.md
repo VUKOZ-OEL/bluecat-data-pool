@@ -1,3 +1,4 @@
+![fig1](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/chm.png?raw=true)  
 # Žofín ForestGEO data
 
 Repository for a sample dataset from the [Žofín ForestGEO plot](https://forestgeo.si.edu/sites/europe/zofin) - Central Europe old-growth forest. Data beeing collected and managed by the [Blue cat team.](https://naturalforests.cz/)  
@@ -24,4 +25,3 @@ Data published in repository comes from one 30 x 30 m subplot if possible. If no
 
 ![fig1](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/chm.png?raw=true)  
 
-![fig2](https://raw.githubusercontent.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/chm.png)  
