@@ -12,7 +12,6 @@ Due its size the RS data are stored externally, here we provide links:
 
 ## LiDAR data  
 
-  
 | Source  | Year | Description |   
 | ------------------- | ------------------- |     
 | TLS |[2010]() | |  
