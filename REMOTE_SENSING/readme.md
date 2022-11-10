@@ -1,11 +1,6 @@
-# Remote sensing data
-
-
 ![](https://raw.githubusercontent.com/VUKOZ-OEL/bluecat-data-pool/main/docs/chm.png)
-
+# Remote sensing data
 *******  
-
-
 
 Due its size the RS data are stored externally, here we provide links:
 
