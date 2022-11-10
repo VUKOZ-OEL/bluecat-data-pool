@@ -6,4 +6,8 @@ Here are look up maps of data coverage of plot and sampling points distribution.
 
 *************
 
-![map of grid points](https://raw.githubusercontent.com/VUKOZ-OEL/bluecat-data-pool/main/MAPS/PM_gridpoints.png | width=333)
+![map of grid points](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/MAPS/PM_gridpoints.png | width=333)
+
+![map of grid points](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/MAPS/PM_gridpoints.png)
+
+![map of grid points](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/MAPS/PM_gridpoints.png|width=333)
