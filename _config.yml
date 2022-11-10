@@ -22,6 +22,7 @@ buttons:
       tar_title: View plot details
       tar_hide: false
       github_hide: false # hides "View on Github"
+      github_title: View data
 
 
 
