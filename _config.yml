@@ -1,7 +1,7 @@
 
 remote_theme: tuur29/pages-themes-cayman
 title: Žofín ForestGEO data
-description: Open sample of dataset from the oldest natural reservation in Central Europe.
+description: Open sample of dataset from the oldest nature reserve in Central Europe.
 show_downloads: true
 darkmode: false
 
@@ -22,7 +22,7 @@ buttons:
       tar_title: View plot details
       tar_hide: false
       github_hide: false # hides "View on Github"
-      github_title: View data
+
 
 
 
