@@ -5,14 +5,14 @@
 
 # Žofín ForestGEO data
 
-Repository for a sample dataset from the [Žofín ForestGEO plot](https://forestgeo.si.edu/sites/europe/zofin) - Central Europe old-growth forest. Data beeing collected and managed by the [Blue Cat team.](https://naturalforests.cz/)  
+Repository for a sample dataset from the [Žofín ForestGEO plot](https://forestgeo.si.edu/sites/europe/zofin) - Central Europe old-growth forest. Data being collected and managed by the [Blue Cat team.](https://naturalforests.cz/)  
 
 All data in repository or data linked in from remote storage are limited, either spatially or temporarilly and are published under [THE]() licence. We are happy to collaborate and share the full extent of data for specific purposes [upon request.](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/contacts/readme.md)  
 
 ********    
 
-| Avialable data:  | Description |
-| ------------------- | ------------------- |       
+| Avialable data  | Description |
+| ----------------------------- | --------------------------- |       
 | [Biomonitoring](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/BIOMONITORING/readme.md) | mosses, mushrooms, insects |     
 | [Maps](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/MAPS/readme.md) | sample maps in .jpg |            
 | [Photo](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/PHOTO/readme.md) | sample photos from plot |         
