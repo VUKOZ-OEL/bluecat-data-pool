@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/VUKOZ-OEL/bluecat-data-pool/main/docs/chm.png)
+![chm](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/chm.png)
 # Remote sensing data
 *******  
 
