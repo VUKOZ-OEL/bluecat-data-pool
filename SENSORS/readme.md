@@ -1,15 +1,9 @@
-# Remote sensing data
+# Sensors
 
-
-![](https://raw.githubusercontent.com/VUKOZ-OEL/bluecat-data-pool/main/docs/chm.png)
-
-*******  
-
-description of data here
-
-> layer 1  
-> layer 2  
-> ...   
-
-
+| Type  | Date of placement | Description |
+| ------------------- | ------------------- | ------------------- |  
+| Litter trap |from - to | litter is collected every ..., balh blah .. |
+| TOMST |from - to |   ..., balh blah .. |
+| Dendrometres |from - to |   ..., balh blah .. |
+| ... |... | ... |
 
