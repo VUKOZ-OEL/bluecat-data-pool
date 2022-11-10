@@ -22,4 +22,6 @@ Due its size the RS data are stored externally, here we provide links:
 ## RS data  
 | Carrier  | Year | Description |
 | ------------------- | ------------------- | ------------------- |  
-| UAV |[2022]() | Ortophoto acquired by DJI phantom 4 RTK on... |
+| UAV |[2022]() | Ortophoto acquired by DJI phantom 4 RTK on... |   
+
+![ortophoto](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/ortophoto_1.jpg?raw=true) 

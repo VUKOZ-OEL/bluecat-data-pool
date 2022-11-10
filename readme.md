@@ -14,7 +14,7 @@ All data in repository or data linked in from remote storage are limited, either
 | Avialable data:  | Description |
 | ------------------- | ------------------- |       
 | [Biomonitoring](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/BIOMONITORING/readme.md) | mosses, mushrooms, insects |     
-| [Maps](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/MAOS/readme.md) | sample maps in .jpg |            
+| [Maps](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/MAPS/readme.md) | sample maps in .jpg |            
 | [Photo](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/PHOTO/readme.md) | sample photos from plot |         
 | [Remote sensing](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/REMOTE_SENSING/readme.md)  | ALS, TLS, MLS, ULS + Aerieal photgraphy |      
 | [Soils](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/SOILS/readme.md)  | geology, geophysics, pollen profile, soil map, soil profile |   
@@ -23,11 +23,9 @@ All data in repository or data linked in from remote storage are limited, either
   
 ********  
 
-Data published in repository comes from one 30 x 30 m subplot if possible. If none of the sampling points fall within the area of subplot (i.e. litter trap, directional photography, etc.). Data from the nearest sampling point(s) are avialable.  
+Data published in repository comes from one 30 x 30 m subplot if possible. If none of the sampling points fall within the area of subplot (i.e. litter trap, directional photography, etc.). Data from the nearest sampling point(s) are avialable.   
 
-![ortophoto](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/ortophoto_1.jpg?raw=true)  
-
-![logo](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/logo.png?raw=true)  
+![logo](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/logo_75pix.png?raw=true)  
 [![twitter_badge](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/Twitter-BluecatThe-blue.svg?raw=true)](https://twitter.com/BluecatThe/)  
 [![facebook_badge](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/Facebook-pralesy.svg?raw=true)](https://www.facebook.com/pralesy.cz/)  
 [![instagram_badge](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/Instagram-bluecatresearchteam-yellow.svg?raw=true)](https://www.instagram.com/bluecatresearchteam/)  [![DOI](https://zenodo.org/badge/561805081.svg)](https://zenodo.org/badge/latestdoi/561805081)   
