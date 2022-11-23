@@ -11,6 +11,3 @@ Here are look up maps of data coverage of plot and sampling points distribution.
  ... some other maps, sensors, TLS coverage, ...
 
 
-![pdf_img](https://docs.google.com/viewer?url=$https://raw.githubusercontent.com/VUKOZ-OEL/bluecat-data-pool/blob/main/MAPS/open_data_subplot.pdf)
-
-[pdf_link](https://docs.google.com/viewer?url=$https://raw.githubusercontent.com/VUKOZ-OEL/bluecat-data-pool/blob/main/MAPS/open_data_subplot.pdf)
