@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@m-a-r-t-in 
-santisoler
-/
-cc-licenses
-Public
-Code
-Issues
-3
-Pull requests
-Actions
-Projects
-Security
-Insights
-cc-licenses/LICENSE-CC-BY-NC-SA
-@weensy
-weensy Add CC-BY-NC-SA license (#10)
-…
-Latest commit c73c3b7 on Apr 28, 2021
- History
- 1 contributor
-437 lines (341 sloc)  20.4 KB
 
 Attribution-NonCommercial-ShareAlike 4.0 International
 
