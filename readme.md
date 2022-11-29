@@ -29,8 +29,9 @@ Data published in repository comes from one 30 x 30 m subplot if possible. If no
 [![license_badge](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/License-CC.svg?raw=true)](https://creativecommons.org/licenses/by-nc-sa/4.0/)        
 [![DOI](https://zenodo.org/badge/561805081.svg)](https://zenodo.org/badge/latestdoi/561805081)   
 
-Socials: [![twitter_badge](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/Twitter-BluecatThe-blue.svg?raw=true)](https://twitter.com/BluecatThe/) 
-[![facebook_badge](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/Facebook-pralesy.svg?raw=true)](https://www.facebook.com/pralesy.cz/) 
+  
+[![twitter_badge](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/Twitter-BluecatThe-blue.svg?raw=true)](https://twitter.com/BluecatThe/)  
+[![facebook_badge](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/Facebook-pralesy.svg?raw=true)](https://www.facebook.com/pralesy.cz/)  
 [![instagram_badge](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/Instagram-bluecatresearchteam-yellow.svg?raw=true)](https://www.instagram.com/bluecatresearchteam/)     
 
 <!--  ![logo](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/logo_75pix.png?raw=true) -->
