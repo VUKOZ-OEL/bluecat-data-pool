@@ -7,7 +7,7 @@
 
 Repository for a sample dataset from the [Žofín ForestGEO plot](https://forestgeo.si.edu/sites/europe/zofin) - Central Europe old-growth forest. Data being collected and managed by the [Blue Cat team.](https://naturalforests.cz/)  
 
-All data in repository or data linked in from remote storage are limited, either spatially or temporarilly and are published under [THE](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/LICENCE.txt) licence. We are happy to collaborate and share the full extent of data for specific purposes [upon request.](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/contacts.md)  
+All data in repository or data linked in from remote storage are limited, either spatially or temporarilly and are published under the [CC BY-NC-SA](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/LICENCE.md) licence. We are happy to collaborate and share the full extent of data for specific purposes [upon request.](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/contacts.md)  
 
 ********    
 
