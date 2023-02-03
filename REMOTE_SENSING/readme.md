@@ -1,5 +1,7 @@
 ![chm](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/chm.png)
 # Remote sensing data
+
+Conact person: Martin Krůček, martin.krucek@vukoz.cz
 *******  
 
 Due its size the RS data are stored externally, here we provide links:
