@@ -13,3 +13,4 @@
 - One square seedling plot (5 m	× 5 m) with the first census in 2016
 - Height measured yearly, survival and recruitment (ingrowth of new seedlings) identified and mapped in the first re-census (2017) and following years (2018–2020)
 - Life (0 = dead, 1 = surviving), height (continuous in cm)
+- "BK" - European beech (_Fagus sylvatica_) was the only species present on the plot
