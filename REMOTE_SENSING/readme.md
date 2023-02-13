@@ -4,7 +4,7 @@
 Conact person: Martin Krůček, krucek@vukoz.cz
 *******  
 
-Due its size the RS data are stored externally, here we provide links:
+Due its size the LiDAR and RS data are stored externally, here we provide links:
 
 
 ## LiDAR data  
