@@ -1,10 +1,9 @@
 ![ortophoto](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/mapa.png?raw=true) 
-# Trees
+# Censuses
 
 
-- Trees_2017_2018.... - all census data we have
-- Census data
-- ...
+- Census data from 1975, 1997, 2008, 2012, 2017, 2022.
+- Data from 2017 and later follow FGEO census protocol.
 
 
 # Juveniles
