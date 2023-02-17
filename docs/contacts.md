@@ -6,17 +6,17 @@ Pavel Šamonil, samonil@vukoz.com
 
 ### Person responsible for data sections  
 
-- Biomonitoring:
+- Biomonitoring:  
 
-- Maps: Barbora Kobosilová, kobosilova@vukoz.cz
+- Maps: Barbora Kobosilová, kobosilova@vukoz.cz  
 
-- Photo:
+- Photo:  
 
-- Remote sensing: Martin Krůček, martin.krucek@vukoz.cz
+- Remote sensing: Martin Krůček, martin.krucek@vukoz.cz  
 
 - Soils: 	Pavel Šamonil, samonil@vukoz.com  
 
-- Trees: 	Censuses: Dušan Adam, adam@vukoz.cz
-			Juveniles: Jan Holík, holik@vukoz.cz
-			Dendrochronology: Ivana Vašíčková, vasickova@vukoz.cz
+- Trees: 	Censuses: Dušan Adam, adam@vukoz.cz  
+			Juveniles: Jan Holík, holik@vukoz.cz  
+			Dendrochronology: Ivana Vašíčková, vasickova@vukoz.cz  
 		
