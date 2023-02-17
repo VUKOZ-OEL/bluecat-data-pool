@@ -16,8 +16,8 @@ Pavel Šamonil, samonil@vukoz.com
 
 - Soils: 	Pavel Šamonil, samonil@vukoz.com  
 
-- Trees
-        - Censuses: Dušan Adam, adam@vukoz.cz  
-        - Juveniles: Jan Holík, holik@vukoz.cz  
-        - Dendrochronology: Ivana Vašíčková, vasickova@vukoz.cz  
+- Trees:
+  - Censuses: Dušan Adam, adam@vukoz.cz  
+  - Juveniles: Jan Holík, holik@vukoz.cz  
+  - Dendrochronology: Ivana Vašíčková, vasickova@vukoz.cz  
 		
