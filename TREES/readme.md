@@ -19,3 +19,8 @@
 
 
 # Dendrochronology
+
+- Tree-ring widths of four living canopy trees in standard .rwl format in 0.01 mm
+- First column indicates tree ID, second column corresponds to period (=Decade), other columns provides information on 10 tree-ring widths within the decade
+- Trees sampled in 2009 (2011) in 1.3 m above the ground
+- European beech (Fagus sylvatica) was the only present species
