@@ -73,32 +73,9 @@ Fig. 1. Flight interception trap, Žofín old-growth forest, V. 2023.
 In 2015 a survey of Click beetles (Elateridae) was done using 12 flight interception traps. In total 94 individuals of 8 species were recorded (Tab. 1). Four species are tied to dead wood in their development. Three saproxylic species were present in at least six of the 12 traps, which indicates suitable microhabitats for development across the entire area of the stand. Only the species Ampedus nigrinus was presented by one individual. Neither species is on the Czech Red List (Hejda et al. 2017), nor protected by the czech law. Not a single Click beetle was caught in trap number 11.
 
 
-
+![trap](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/trap.png?raw=true) 
 Tab. 1. Click beetles in 12 flight interception traps, NPR Žofínský prales, season 2015.
 
-<table border="1">
-  <thead>
-    <tr>
-      <th rowspan="2">Species</th>
-      <th colspan="12">Trap number</th>
-      <th rowspan="2">Total count</th>
-    </tr>
-    <tr>
-      <th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th>
-      <th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td><i>Ampedus erythrogonus</i></td><td></td><td></td><td>1</td><td>1</td><td>5</td><td>2</td><td>3</td><td>1</td><td>2</td><td></td><td></td><td></td><td>15</td></tr>
-    <tr><td><i>Ampedus nigrinus</i></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr>
-    <tr><td><i>Athous subfuscus</i></td><td>4</td><td>2</td><td>3</td><td></td><td>2</td><td>2</td><td>3</td><td>6</td><td>3</td><td>3</td><td></td><td></td><td>28</td></tr>
-    <tr><td><i>Athous vittatus</i></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td>2</td></tr>
-    <tr><td><i>Athous zebei</i></td><td>1</td><td></td><td></td><td>1</td><td></td><td></td><td>4</td><td>2</td><td></td><td></td><td></td><td>1</td><td>9</td></tr>
-    <tr><td><i>Dalopius marginatus</i></td><td>2</td><td></td><td>2</td><td></td><td>2</td><td></td><td>1</td><td>4</td><td></td><td>1</td><td></td><td>2</td><td>14</td></tr>
-    <tr><td><i>Melanotus castanipes</i></td><td></td><td>3</td><td>1</td><td>1</td><td></td><td>1</td><td></td><td></td><td>1</td><td>5</td><td></td><td></td><td>12</td></tr>
-    <tr><td><i>Melanotus villosus</i></td><td>1</td><td>1</td><td>2</td><td></td><td></td><td>4</td><td>4</td><td></td><td>1</td><td></td><td></td><td></td><td>13</td></tr>
-  </tbody>
-</table>
 
 
 ### LICHENS
