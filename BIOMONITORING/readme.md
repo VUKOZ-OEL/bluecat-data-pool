@@ -9,7 +9,7 @@
 •	the obtained data reflect the diversity of fungi on (a) the entire monitored plots; (b) selected targeted objects - ca 5 selected lying dead trunks on each plot  <br>
 •	data come from a single autumn visit in 2023, monitoring is expected to be repeated in 2033 <br>
 •	data set contains ca 1576 records  <br>
-[fungi_data_2023.xlsx](https://github.com/user-attachments/files/19734991/fungi_data_2023.xlsx)
+[fungi_data_2023.xlsx](BIOMONITORING/fungi_data_2023.xlsx)
  <br>
 
 ### 2015 
@@ -19,7 +19,7 @@
 •	each record of the found species contains detailed information about the microhabitat (position on the trunk, degree of wood decomposition, bark and bryophyte coverage)  <br>
 •	data come from 4 visits during the 2015 season (spring, summer, autumn, late autumn)  <br>
 •	data set contains a total of 2050 records  <br>
-[fungi_data_2015.xlsx](https://github.com/user-attachments/files/19734997/fungi_data_2015.xlsx)
+[fungi_data_2015.xlsx](BIOMONITORING/fungi_data_2015.xlsx)
  <br>
 
 
