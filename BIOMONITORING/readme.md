@@ -73,7 +73,7 @@ Fig. 1. Flight interception trap, Žofín old-growth forest, V. 2023.
 In 2015 a survey of Click beetles (Elateridae) was done using 12 flight interception traps. In total 94 individuals of 8 species were recorded (Tab. 1). Four species are tied to dead wood in their development. Three saproxylic species were present in at least six of the 12 traps, which indicates suitable microhabitats for development across the entire area of the stand. Only the species Ampedus nigrinus was presented by one individual. Neither species is on the Czech Red List (Hejda et al. 2017), nor protected by the czech law. Not a single Click beetle was caught in trap number 11.
 
 
-![trap](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/trap.png?raw=true) 
+![trap](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/trap.png?raw=true)  
 Tab. 1. Click beetles in 12 flight interception traps, NPR Žofínský prales, season 2015.
 
 
