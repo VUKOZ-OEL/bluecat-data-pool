@@ -74,7 +74,7 @@ In 2015 a survey of Click beetles (Elateridae) was done using 12 flight intercep
 
 
 ![trap](https://github.com/VUKOZ-OEL/bluecat-data-pool/blob/main/docs/assets/images/trap.png?raw=true)  
-Tab. 1. Click beetles in 12 flight interception traps, NPR Žofínský prales, season 2015.
+Fig. 1. Click beetles in flight interception traps, NPR Žofínský prales, season 2015.
 
 
 
