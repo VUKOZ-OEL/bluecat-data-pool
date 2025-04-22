@@ -9,7 +9,7 @@
 •	the obtained data reflect the diversity of fungi on (a) the entire monitored plots; (b) selected targeted objects - ca 5 selected lying dead trunks on each plot  <br>
 •	data come from a single autumn visit in 2023, monitoring is expected to be repeated in 2033 <br>
 •	data set contains ca 1576 records  <br>
-[fungi_data_2023.xlsx](BIOMONITORING/fungi_data_2023.xlsx)
+[fungi_data_2023.xlsx](fungi_data_2023.xlsx)
  <br>
 
 ### 2015 
