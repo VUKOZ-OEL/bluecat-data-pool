@@ -1,4 +1,4 @@
-# Photo
+# Photo from the plot
 
 *******  
 
